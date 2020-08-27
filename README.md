@@ -1,5 +1,5 @@
 # Game-2d-Java
-## Jogo simples treinando mecanicas em java.
+## Jogo simples 2d em 16x16 pixels, treinando mecanicas em java.
 
 gif
 
@@ -21,12 +21,12 @@ Bibliotecas mais importantes:
 6. java.awt.image.DataBuffer
 7. java.awt.image.BufferedImage
 
-  imagem-spritesheet
+![Spritesheet](https://github.com/Fabipmfilho/Game-2d-Java/blob/master/Game_01/res/spritesheet.png)
 
-O mapa do jogo é carregado por uma imagem com alguns pixels, e uma classe verifica as cores e corresponde
+O mapa do jogo é carregado por uma imagem com alguns pixels, e uma classe verifica as cores e correspondentes
 por uma imagem do spritesheet.
 
-![img mapa](C:\Users\fabio\OneDrive\Documentos\GitHub\Game-2d-Java\Game_01\res)
+![Level2](https://github.com/Fabipmfilho/Game-2d-Java/blob/master/Game_01/res/level2.png)
 
 ```
 public World(String path) {
@@ -87,3 +87,4 @@ public World(String path) {
         }
     }
 ```
+O jogo ainda não foi terminado, ainda estou aprendendo e testando novas freatures!
