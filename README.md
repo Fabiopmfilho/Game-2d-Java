@@ -26,7 +26,7 @@ Bibliotecas mais importantes:
 O mapa do jogo é carregado por uma imagem com alguns pixels, e uma classe verifica as cores e corresponde
 por uma imagem do spritesheet.
 
-![img mapa]()
+![img mapa](C:\Users\fabio\OneDrive\Documentos\GitHub\Game-2d-Java\Game_01\res)
 
 ```
 public World(String path) {
