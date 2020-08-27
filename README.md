@@ -1,7 +1,9 @@
 # Game-2d-Java
 ## Jogo simples 2d em 16x16 pixels, treinando mecanicas em java.
 
-gif
+![Menu inicial](https://github.com/Fabipmfilho/Game-2d-Java/blob/master/Game_01/menu_inicial.png)
+
+![gif do jogo](https://github.com/Fabipmfilho/Game-2d-Java/blob/master/Game_01/Meu%20V%C3%ADdeo1.gif)
 
 O jogo funciona basicamente dentro de duas funções:
 `tick()` e `render()`
@@ -88,3 +90,7 @@ public World(String path) {
     }
 ```
 O jogo ainda não foi terminado, ainda estou aprendendo e testando novas freatures!
+
+![gif do jogo](https://github.com/Fabipmfilho/Game-2d-Java/blob/master/Game_01/Meu%20V%C3%ADdeo.gif)
+
+# Obrigado!
