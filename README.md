@@ -4,9 +4,13 @@
 gif
 
 O jogo funciona basicamente dentro de duas funções:
-'tick()' e 'render()'
+`tick()` e `render()`
 
-### 'tick()' é responsavel por 
+### tick() 
+é responsavel por atualizar a todo instante o jogo.
+
+### render()
+é responsavel por renderizar todo o gráfico do jogo.
 
 Bibliotecas mais importantes:
 1. java.awt.Color
@@ -22,9 +26,9 @@ Bibliotecas mais importantes:
 O mapa do jogo é carregado por uma imagem com alguns pixels, e uma classe verifica as cores e corresponde
 por uma imagem do spritesheet.
 
-img mapa
+![img mapa]()
 
-'''
+```
 public World(String path) {
         try {
             BufferedImage map = ImageIO.read(getClass().getResource(path));
@@ -82,4 +86,4 @@ public World(String path) {
             ex.printStackTrace();
         }
     }
-'''
+```
