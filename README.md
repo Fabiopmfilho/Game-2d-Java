@@ -89,8 +89,26 @@ public World(String path) {
         }
     }
 ```
-O jogo ainda não foi terminado, ainda estou aprendendo e testando novas freatures!
+O jogo ainda não foi terminado, ainda estou aprendendo e testando novas features!
 
 ![gif do jogo](https://github.com/Fabipmfilho/Game-2d-Java/blob/master/Game_01/Meu%20V%C3%ADdeo.gif)
 
 # Obrigado!
+
+----------------------------------------------------------------
+## 🦸 Autor
+<a href="https://github.com/Fabiopmfilho">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/37713768?s=400&u=5ae234755a07a41c40e5c9ab0b91c3eb26fd42e9&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Fábio Filho</b></sub></a> <a href="https://github.com/Fabiopmfilho" title="Rocketseat">🚀</a>
+ <br />
+
+[![Twitter Badge](https://img.shields.io/badge/-@Kathur_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@Kathur_)](https://twitter.com/@Kathur_) [![Linkedin Badge](https://img.shields.io/badge/-Fábio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiopmfilho/)](https://www.linkedin.com/in/fabiopmfilho/) [![Gmail Badge](https://img.shields.io/badge/-fabiopmfilho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiopmfilho@gmail.com)](mailto:fabiopmfilho@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988498559!)](https://api.whatsapp.com/send?phone=5511999569942!)
+
+---
+
+### 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com ❤️ por Fábio Filho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/fabiopmfilho/)
